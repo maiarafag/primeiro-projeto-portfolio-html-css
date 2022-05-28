@@ -1,19 +1,8 @@
-<h1 align="center">Primeiro Portólio pessoal </h1>
+<h1>Primeiro Portólio pessoal </h1>
 
-<p align="center">Primeiro portfólio feito em HTML e CSS</p>
+<p>Primeiro portfólio feito em HTML e CSS</p>
 
 
-<p align="center"> 
- <a href="#sobre">Sobre</a> •
- <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#pre-requisitos">Pré Requisitos</a> • 
- <a href="#demonstracao">Demonstração</a>
- 
-</p>
-
-# Sobre
-<p>Projeto de portfólio simples  </p>
 
 # Objetivo
 <p>
@@ -36,7 +25,7 @@
 
 </p>
 
-# Demonstracao
+# Resultado
 
 <h1 align="center">
   <img alt="Portfólio" title="#Portfólio" src="./IMG.png" />
